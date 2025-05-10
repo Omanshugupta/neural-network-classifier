@@ -4,7 +4,7 @@ This project implements a simple neural network from scratch using NumPy to clas
 
 ## Problem Statement
 
-Build a feedforward neural network to classify 6×6 binary pixel patterns as either A, B, or C. Each image is a flattened 1D array of 36 binary values. The network must be trained using backpropagation and gradient descent.
+Build a feedforward neural network to classify 6×6 binary pixel patterns as either A, B, or C. Each image is a flattened 1D array of 35 binary values. The network must be trained using backpropagation and gradient descent.
 
 ## Project Structure
 
