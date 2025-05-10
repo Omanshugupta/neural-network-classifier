@@ -9,6 +9,7 @@ Build a feedforward neural network to classify 6×6 binary pixel patterns as eit
 ## Project Structure
 
 neural-network-classifier/
+
 ├── neural_network_classifier.ipynb
 ├── README.md
 
